@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **MyPortfolio**
 
-- 🌱 I’m currently learning **TypeScript, React, NextJS**
+- 🌱 I’m currently learning **TypeScript, React, NextJS, Figma**
 
 - 💬 Ask me about **Java, R, Python, MatLab, C, C++, SQL**
 
