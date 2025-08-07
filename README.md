@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sneha Bhattacharyya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate budding Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha-bhattacharyya&label=Profile%20views&color=0e75b6&style=flat" alt="sneha-bhattacharyya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sneha-bhattacharyya" alt="sneha-bhattacharyya" /></a> </p>
 
-- 🔭 I’m currently working on **MyPortfolio**
+- 🔭 I’m currently working on **Early Detection of Alzeihmer's Disease using ML**
 
-- 🌱 I’m currently learning **TypeScript, React, NextJS, Figma**
+- 🌱 I’m currently learning **Data Analysis, Data Visualization, GEN AI, Prompt Engineering, Cloud Computing**
 
-- 💬 Ask me about **Java, R, Python, MatLab, C, C++, SQL**
+- 💬 Ask me about **Java, Python, C, SQL, PL/SQL, DBMS, OS, PowerBI**
 
 - 📫 How to reach me **bhattacharyyasneha33@gmail.com**
 
